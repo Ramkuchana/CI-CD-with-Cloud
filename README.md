@@ -3,7 +3,7 @@
 [![CI/CD of a python code with Github Actions](https://github.com/Ramkuchana/CI-CD-with-Cloud/actions/workflows/blank.yml/badge.svg)](https://github.com/Ramkuchana/CI-CD-with-Cloud/actions/workflows/blank.yml)
 
 
-Continuous integration (CI) using AWS Cloud9 for development, GitHub for version control, and GitHub Actions for automated CI.
+Continuous integration (CI) using "AWS Cloud9" for development, "GitHub" for version control, and "GitHub Actions" for automated CI.
 
 Steps followed:
 
